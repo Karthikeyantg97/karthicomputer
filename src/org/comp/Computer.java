@@ -12,4 +12,7 @@ private void sizeOfRam() {
 	System.out.println("6GB");
 
 }
+	private void software() {
+	System.out.println("Software");
+}
 }
